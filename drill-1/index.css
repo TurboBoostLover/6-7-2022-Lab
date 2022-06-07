@@ -1,0 +1,36 @@
+#top-box {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 10000px;
+    height: 200px;
+    background-color: rgb(57, 57, 57);
+}
+
+#Left-Piece {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    width: 100px;
+    height: 1087px;
+    background-color: rgb(231, 229, 229);
+}
+
+#Right-Piece {
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    width: 100px;
+    height: 1087px;
+    background-color: rgb(231, 229, 229);
+}
+
+#Bottom-Box {
+    position: absolute;
+    bottom: 0px;
+    right: 100px;
+    left:100px;
+    width: 1078px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+}
